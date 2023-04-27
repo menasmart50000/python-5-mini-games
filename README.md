@@ -2,7 +2,8 @@
 
 
 # those Mini Games was programmed using python 
-    the main python file is: 5 games.py 
+ 
+  the main python file is: 5 games.py 
 
   # the remaining files are components of the project as every file is a specific game 
 
